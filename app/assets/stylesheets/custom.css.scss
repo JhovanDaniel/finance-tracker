@@ -2,6 +2,7 @@
 
 .search-area{
     padding-top: 50px;
+    margin-bottom: 0px;
 }
 
 
@@ -10,10 +11,15 @@
 }
 
 .no-right-padding{
-    padding-top: 0 !important;
     padding-right: 0 !important;
 }
 
 .results-block{
     display: inline-block;
+    margin-bottom: 10px !important;
+}
+
+.user-name{
+    margin-top: 3.5%;
+    padding-right: 5px;
 }
